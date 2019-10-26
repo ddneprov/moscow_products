@@ -14,7 +14,6 @@
 		6186012923646BD9002C5F82 /* moscow_products.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6186012723646BD9002C5F82 /* moscow_products.xcdatamodeld */; };
 		6186012B23646BDC002C5F82 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6186012A23646BDC002C5F82 /* Assets.xcassets */; };
 		6186012E23646BDC002C5F82 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6186012C23646BDC002C5F82 /* LaunchScreen.storyboard */; };
-		6186013623646FAC002C5F82 /* dishes_typesCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6186013523646FAC002C5F82 /* dishes_typesCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +26,6 @@
 		6186012A23646BDC002C5F82 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6186012D23646BDC002C5F82 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6186012F23646BDC002C5F82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6186013523646FAC002C5F82 /* dishes_typesCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dishes_typesCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +62,6 @@
 				6186012023646BD9002C5F82 /* SceneDelegate.swift */,
 				6186012223646BD9002C5F82 /* ViewController.swift */,
 				6186012423646BD9002C5F82 /* Main.storyboard */,
-				6186013523646FAC002C5F82 /* dishes_typesCollectionViewCell.swift */,
 				6186012A23646BDC002C5F82 /* Assets.xcassets */,
 				6186012C23646BDC002C5F82 /* LaunchScreen.storyboard */,
 				6186012F23646BDC002C5F82 /* Info.plist */,
@@ -145,7 +142,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				6186012323646BD9002C5F82 /* ViewController.swift in Sources */,
-				6186013623646FAC002C5F82 /* dishes_typesCollectionViewCell.swift in Sources */,
 				6186011F23646BD9002C5F82 /* AppDelegate.swift in Sources */,
 				6186012123646BD9002C5F82 /* SceneDelegate.swift in Sources */,
 				6186012923646BD9002C5F82 /* moscow_products.xcdatamodeld in Sources */,
